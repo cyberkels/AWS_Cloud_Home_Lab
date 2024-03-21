@@ -1,6 +1,6 @@
 # AWS_Cloud_Home_Lab
 
-#The following project goes through the creation of a secure lab in the club, comprising of a single public-facing subnet, with 2 EC2 instances running Kali Linux and Windows 11.
+# The following project goes through the creation of a secure lab in the club, comprising of a single public-facing subnet, with 2 EC2 instances running Kali Linux and Windows 11.
 - VPC IP Address Block: 10.0.0.0/16 (Default)
 - Public Subnet: 10.0.1.0/24
 - Route table: Default
